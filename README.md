@@ -1,4 +1,4 @@
-##Hi, I'm Teodoro Rodrigues, developer fullstack
+Hi, I'm Teodoro Rodrigues, developer fullstack
     <div align="center">
       <a href="https://github.com/Teodoro-RuyLuques">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=teodoro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
