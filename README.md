@@ -5,7 +5,7 @@
 </div>
 
 <!-- Snake -->
-<div <img src="https://raw.githubusercontent.com/Teodoro-RuyLuques/Teodoro-RuyLuques/output/snake.svg" alt="Snake animation" />
+<div <img src="/Teodoro-RuyLuques/Teodoro-RuyLuques/output/snake.svg" alt="Snake animation" />
 
 ###
 </div>
@@ -20,7 +20,7 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 More about me...</summary>
 
   - 💬 I study Systems Analysis and have been working with the technical side of IT for over 4 years, especially hardware and systems. Oh, and I've already given computer classes to a cool bunch of people, more than 30 students! 💻✨
 Now I'm embarking on the Cloud School, where I'm discovering the secrets and tricks of the AWS cloud. All this because my dream is to be a DevOps ninja! 🚀🌐 
