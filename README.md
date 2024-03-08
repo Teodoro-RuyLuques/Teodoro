@@ -28,6 +28,17 @@ Now I'm embarking on the Cloud School, where I'm discovering the secrets and tri
 
   - ⚡ I like to travel, in my free time I play sports like playing football and skateboarding’. I am a musician not only in church but I am part of a musical association called LiraCarlosGomes and I play some instruments such as guitar, alto sax, clarinet, flute, harmonica. I like reading, whether it's a good book, as well as watching movies, series and anime.. \o/
 </details>
+<!--Redes Sociais-->
+<div align="left">
+</div>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
 
 <!-- Links -->
 
@@ -58,10 +69,16 @@ Now I'm embarking on the Cloud School, where I'm discovering the secrets and tri
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+ 
 </div>
 
 ###
-  </div>
+
+
+###
+
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
@@ -69,7 +86,12 @@ Now I'm embarking on the Cloud School, where I'm discovering the secrets and tri
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+    <img align="center" alt="VScode" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   </div>
   
 
+<div align="left">
+ 
+</div>
 
+###
