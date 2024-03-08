@@ -4,8 +4,6 @@
     <summary><h1 style="display: inline-block">Welcome to my profile</h1></summary>
 </div>
 
-<!-- Snake -->
-<div <img src="/Teodoro-RuyLuques/Teodoro-RuyLuques/output/snake.svg" alt="Snake animation" />
 
 ###
 </div>
