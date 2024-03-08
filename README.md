@@ -66,5 +66,8 @@ Now I'm embarking on the Cloud School, where I'm discovering the secrets and tri
 
   </div>
 
-  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
-
+  <!-- Snake -->
+<div align="Center">
+<img src="https://github.com/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  alt="snake" /></div>a>
+</div>
