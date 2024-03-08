@@ -4,6 +4,11 @@
     <summary><h1 style="display: inline-block">Welcome to my profile</h1></summary>
 </div>
 
+<!-- Snake -->
+<div <img src="https://raw.githubusercontent.com/Teodoro-RuyLuques/Teodoro-RuyLuques/output/snake.svg" alt="Snake animation" />
+
+###
+</div>
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Teodoro! I have a degree in Information Technology Management and I live in Brazil..
@@ -18,7 +23,6 @@
   <summary>👨‍💻 More about me</summary>
 
   - 💬 I study Systems Analysis and have been working with the technical side of IT for over 4 years, especially hardware and systems. Oh, and I've already given computer classes to a cool bunch of people, more than 30 students! 💻✨
-
 Now I'm embarking on the Cloud School, where I'm discovering the secrets and tricks of the AWS cloud. All this because my dream is to be a DevOps ninja! 🚀🌐 
 
 
@@ -28,6 +32,7 @@ Now I'm embarking on the Cloud School, where I'm discovering the secrets and tri
 <!-- Links -->
 
 <!-- GithubStats -->
+![Teodoro GitHub stats](https://github-readme-stats.vercel.app/api?username=Teodoro-RuyLuques&show_icons=true&theme=dark&count_private=true)
 
 
 <!-- GIF -->
@@ -50,18 +55,9 @@ Now I'm embarking on the Cloud School, where I'm discovering the secrets and tri
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   </div>
   
-  <!-- Skills: Libraries -->
-  <div style="flex-basis: 48%;">
-    <h3>Libraries</h3>
-    <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
 
-</div>
+
