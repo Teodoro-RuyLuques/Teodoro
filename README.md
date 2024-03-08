@@ -64,7 +64,8 @@ Now I'm embarking on the Cloud School, where I'm discovering the secrets and tri
     <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
     <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
 
-       # GitHub Action for generating a contribution graph with a snake eating your contributions.
+  </div>
+  # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
 name: Generate Snake
 
@@ -118,7 +119,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  </div>
 
   
 
