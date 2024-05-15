@@ -1,7 +1,7 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Welcome to my profile</h1></summary>
+    <summary><h1 style="display: inline-block">Bem-vindo ao meu perfil</h1></summary>
 </div>
 
 
@@ -9,22 +9,22 @@
 </div>
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Teodoro! I have a degree in Information Technology Management and I live in Brazil..
+  Olá 👋, Eu me chamo Teodoro! Sou formado em Gestão de Tecnologia da Informação e moro em Sergipe...
 
-  - 🌱 I'm currently studying Linux, devops and azure database. <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Atualmente estou estudando Linux, devops e banco de dados azure. <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
-  - :octocat: I'm looking for my first job opportunity. I want to pursue a career in devops and become a professional in the area..
+  - :octocat: Estou em busca da minha primeira oportunidade de emprego. Quero seguir carreira em devops e me tornar um profissional na área.
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me...</summary>
+  <summary>👨‍💻 Sobre me...</summary>
 
-  - 💬 I study Systems Analysis and have been working with the technical side of IT for over 4 years, especially hardware and systems. Oh, and I've already given computer classes to a cool bunch of people, more than 30 students! 💻✨
-Now I'm embarking on the Cloud School, where I'm discovering the secrets and tricks of the AWS cloud. All this because my dream is to be a DevOps ninja! 🚀🌐 
+  - 💬 Estudo Análise de Sistemas e trabalho com a parte técnica de TI há mais de 4 anos, principalmente hardware e sistemas. Ah, e já dei aulas de informática para um monte de gente bacana, mais de 30 alunos! 💻✨
+Agora estou embarcando na Escola da Nuvem, onde estou descobrindo os segredos e truques da nuvem AWS. Tudo isso porque meu objetivo é ser um ninja DevOps! 🚀🌐 
 
 
-  - ⚡ I like to travel, in my free time I play sports like playing football and skateboarding’. I am a musician not only in church but I am part of a musical association called LiraCarlosGomes and I play some instruments such as guitar, alto sax, clarinet, flute, harmonica. I like reading, whether it's a good book, as well as watching movies, series and anime.. \o/
+  - ⚡ Gosto de viajar, nas horas vagas pratico esportes como jogar futebol e andar de skate. Sou músico não só de igreja mas faço parte de uma associação musical chamada LiraCarlosGomes e toco alguns instrumentos como violão, sax alto, clarinete, flauta, gaita. Gosto de ler, seja um bom livro, além de assistir filmes, séries e animes.. \o/
 </details>
 <!--Redes Sociais-->
 <div align="left">
