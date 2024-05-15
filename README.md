@@ -13,7 +13,7 @@
 
   - 🌱 Atualmente estou estudando Linux, devops e banco de dados azure. <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
-  - :octocat: Estou em busca da minha primeira oportunidade de emprego. Quero seguir carreira em devops e me tornar um profissional na área.
+  - :octocat: Estou em busca da minha primeira oportunidade como home office. Quero seguir carreira em devops e me tornar um profissional na área.
 </p>
 
 <!-- Dropdown -->
