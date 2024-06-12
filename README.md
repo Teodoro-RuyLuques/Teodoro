@@ -56,8 +56,12 @@ Agora estou embarcando na Escola da Nuvem, onde estou descobrindo os segredos e 
 
   - Iniciais: <br>
  ▫ [Landing page Dio-Santander](https://github.com/Teodoro-RuyLuques/Dio-Santander)<br>
+ ▫ [Projeto-to-do-list](https://github.com/Teodoro-RuyLuques/projeto-to-do-list)<br>
  
   - Principais: 
+
+
+  - Meus Estudos:
 </details>
 
 <!-- GIF -->
