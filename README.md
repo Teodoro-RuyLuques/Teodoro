@@ -62,7 +62,7 @@ Agora estou embarcando na Escola da Nuvem, onde estou descobrindo os segredos e 
   - Principais DevOps: 
 
 
-  - Meus Estudos:
+  - Meus Estudos: <br>
  ▫ [Dio-BD-Relacional](https://github.com/Teodoro-RuyLuques/Alguns-comandos-de-SGBD)<br>
 
  
