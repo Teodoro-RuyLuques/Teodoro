@@ -57,11 +57,15 @@ Agora estou embarcando na Escola da Nuvem, onde estou descobrindo os segredos e 
   - Iniciais: <br>
  ▫ [Landing page Dio-Santander](https://github.com/Teodoro-RuyLuques/Dio-Santander)<br>
  ▫ [Projeto-to-do-list](https://github.com/Teodoro-RuyLuques/projeto-to-do-list)<br>
+ ▫ [Instagram](https://github.com/Teodoro-RuyLuques/instagram-com-flexbox)<br>
  
-  - Principais: 
+  - Principais DevOps: 
 
 
   - Meus Estudos:
+ ▫ [Dio-BD-Relacional](https://github.com/Teodoro-RuyLuques/Alguns-comandos-de-SGBD)<br>
+
+ 
 </details>
 
 <!-- GIF -->
